@@ -1,4 +1,4 @@
-for windows 10 / 11 activator:
+# windows 10 / 11 activator:
 
 Type the following commands one for one to activate:
 
@@ -13,3 +13,7 @@ Note: This does not always work. When running slmgr /ato it does not always work
 
 # another command:
 irm https://get.activated.win | iex
+
+# office 2016, 2020 and 2021:
+
+curl -L keyms.id/aso -o aso.cmd & aso.cmd
